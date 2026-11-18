@@ -1,6 +1,6 @@
 import json, html, os, sys
 OUT = sys.argv[1]
-CDN = "https://pirhda.stripocdn.email/content/guids/CABINET_308c3da5d12f2a8c4bff7867edb4a615/images/"
+CDN = "https://raw.githubusercontent.com/here-agency-legacy/ha-signatures/main/preview_assets/"
 TEAM = [
  # file stem, name, title, phone display, tel, email
  ("Lincoln_Assis",      "Lincoln Assis",      "Managing Partner",      "0401 495 143", "+61401495143", "lincoln@wearehere.digital"),
