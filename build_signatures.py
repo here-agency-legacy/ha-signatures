@@ -9,6 +9,11 @@ TEAM = [
  ("Carolina_Magalhaes", "Carolina Magalhaes", "Project Manager",       "0402 212 509", "+61402212509", "carol@wearehere.digital"),
  ("Lucia_Baldi",        "Lucia Baldi",        "Designer",              None,           None,           "lucia@wearehere.digital"),
  ("Marcus_Nascimento",  "Marcus Nascimento",  "Marketing Coordinator", "0452 460 824", "+61452460824", "marcus@wearehere.digital"),
+ ("Do_Viet_Liem",       "Do Viet Liem",       "Lead Web Engineer",     None,           None,           "liemdo@wearehere.digital"),
+ ("Ernest_Pineda",      "Ernest Pineda",      "Web Developer",         None,           None,           "ernest@wearehere.digital"),
+ ("Marbien_Parel",      "Marbien Parel",      "Sr. QA Engineer",       None,           None,           "marbien@wearehere.digital"),
+ ("Nam_Bui",            "Nam Bui",            "Sr. UI/UX Designer",    None,           None,           "nam@wearehere.digital"),
+ ("Thai_Thi_Yen_Nhi",   "Thai Thi Yen Nhi",   "Web Developer",         None,           None,           "nhi@wearehere.digital"),
 ]
 FONT = "Arial,'Helvetica Neue',Helvetica,sans-serif"
 LINK = f"color:#ffffff;text-decoration:none;font-family:{FONT};font-size:12px;line-height:18px;"
